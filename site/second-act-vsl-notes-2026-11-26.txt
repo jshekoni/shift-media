@@ -1,0 +1,46 @@
+Second Act VSLs: edit notes
+Made by Video Editor 2, Thursday 26 November 2026.
+
+Source folder (raw clips left untouched): Google Drive > 01 The Shift > 04 Socials & Marketing > VSL for Second ACtT
+https://drive.google.com/drive/folders/1IQm2C37noWnMC1viJooNUE9Pyr8HvktH
+Note: the folder named in the brief (3 types & inner child, clips 12:31 to 12:44) holds Three Types and states clips, not VSLs. The ten VSL takes are in the folder above, filmed about 13:10 to 13:20.
+
+Edit on all three: start and end trimmed only, no words cut. Picture turned upright (the phone recorded it on its side), 1280x720 landscape 16:9. The Shift logo small, top right, over the wall, clear of face and hair. No captions, hook, animation, fade or music. Sound normalised to -16 LUFS (measured -16.1), true peak -1.5 dB. H.264 high, about 1.7 Mbps, AAC 128k, 30 fps, faststart.
+
+Stumbles: none heard in the three picked takes. Listed below are small wording slips she makes while speaking; nothing was cut.
+
+----------------------------------------------------------------
+1. second-act-after-assessment.mp4
+Length 50.0 s · 11 MB · landscape 1280x720
+Source: 3D90C728-E49A-4F87-A3FF-1155F9974E40.MOV, 0.30 s to 50.30 s
+Why this take: the cleanest full version of "thank you, now book the call". Other takes of the same message: 7A9728BC (27 s, shorter), A9EBA0B8 (49 s, "So proud of you"), CE5C0AD3 (68 s, longest), D340DE11 (41 s, says "BDIs", probably "beady eyes").
+
+Transcript:
+You did it. You did your Second Act assessment. So now you probably have discovered some things just from answering the questions. You also have seen your report, so you know whether you're in survival, warrior or sovereign state. You've got some ideas of what these businesses could be and you can see the obstacles and the blocks that have been holding you back. The next step is implementation. Book your 15-minute call with me or my team and we are going to talk to you more about what's in the report, more about what your Second Act could look like and how we can help. How the Second Act programme is going to take you from wherever you are and give you the implementation tools, give you the mental state and capacity and the space to be able to make this a reality. The world is moving very quickly now, so this is the time to do it. I hope you will join me and I look forward to hearing from you and seeing you on the call.
+
+Slips (left in): "me or my team" can sound like "me on my team".
+
+----------------------------------------------------------------
+2. second-act-booked-15.mp4
+Length 33.5 s · 7.3 MB · landscape 1280x720
+Source: BF2F074F-E0AB-4901-99FB-68E92EC9F6C0.MOV, 0.35 s to 33.80 s
+Why this take: thanks her for booking and sets up the second, longer call. Other take: DCABC477 (44 s, "go back to your report and have a read through"). E30E3835 (17 s, "your 15 minute call is coming up... client videos") is a different message, not used.
+
+Transcript:
+Thank you for booking your call. Myself and the team will now go over your report and prepare. So make sure you put the time you're going to meet us in your diary. We will go through the report forensically and let you know if there's any more suggestions, something even better. Now it's going to have my eye on it. And we'll also discuss with you what it looks like working with us, the implementation, the support, the guidance, the AI tools. And if we think that's a good match, we'll ask you to come on another call where we can really get into the meat and bones and see if this is a partnership that's going to get you to your Second Act as quickly as possible.
+
+Slips (left in): "meat and bones" (usual phrase is "nuts and bolts" or "meat and potatoes").
+
+----------------------------------------------------------------
+3. second-act-booked-45.mp4
+Length 55.0 s · 12 MB · landscape 1280x720
+Source: 879513BE-9265-495C-A6C9-E37E1F706811.MOV, 0.60 s to 55.60 s
+Why this take: the only take for the longer call.
+
+Transcript:
+I'm so glad that you've booked for a longer call so we can really go over how to make your Second Act become a reality. We are going to work not only on your report and what your business could be and what these internal blocks are, but we're going to take our time to explain to you in depth how the programme works and whether it would be a right fit for you. The programme will help you implement all of the steps. It will happen month by month and it will happen with me personally and with a group of like-minded, successful, accomplished women who can also be there for support and guidance. This, I feel, is a once-in-a-lifetime opportunity because it's now or never. AI is changing the world at such a fast rate that it's get on board or be left behind. So I'm really excited that you've decided to do this call and we're going to make sure in the background that we've got everything we need to make this time count and get you on board so we can work with you and get you where you're meant to be.
+
+Slips (left in): she says "a longer call", not "45 minutes"; the length is not named in the video.
+
+----------------------------------------------------------------
+Not used: 459580EA (70 s, "What is Second Act?", a general explainer). Could suit /call or the Second Act page.
